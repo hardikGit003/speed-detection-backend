@@ -1,0 +1,22 @@
+﻿# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data / outputs
+uploads/
+processed/
+*.mp4
+*.avi
+*.mkv
+*.csv
+*.log
+
+# Models / weights
+*.pt
+*.onnx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
